@@ -1,0 +1,25 @@
+.box1{
+    padding: 20px;
+    height: 280px;
+    width: 450px;
+    background-color: rgb(249, 178, 85);
+    margin: auto;
+    margin-top: 100px;
+    outline-style:dotted;
+    outline-color: red;
+    outline-offset: 10px;
+   }
+   .box2{
+    height: 240px;
+    width:410px;
+    background-color: rgb(245, 229, 88);
+    padding: 20px;
+   }
+   .box3{
+    height: 190px;
+    width: 440px;
+    background-color: rgb(95, 153, 241);
+    padding: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+   }
